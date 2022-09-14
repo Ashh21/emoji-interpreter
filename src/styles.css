@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0rem;
+  background-image: url("https://img.freepik.com/premium-vector/cartoon-fruits-vegetables-set_229548-744.jpg?w=2000");
+  cursor: default;
+  color: white;
+}
+.cont {
+  background-color: #f54753;
+  color: black;
+  width: 60%;
+  margin: auto;
+  padding: 2rem 0.5rem;
+  border-radius: 1rem;
+}
+nav {
+  color: black;
+  padding: 1rem;
+}
